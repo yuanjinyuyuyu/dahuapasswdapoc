@@ -1,6 +1,6 @@
 # dahuapasswdapoc
 
-# fofa：app="dahua-智慧园区综合管理平台"
+#fofa：app="dahua-智慧园区综合管理平台"
 #案例：http://101.68.86.236:10443
 
 Usage:
